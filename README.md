@@ -24,7 +24,7 @@ Proyek tidak menggunakan import library perhitungan.
 ---
 
 Versi Website Streamlit:
--
+https://proyek-akhir-metode-numerik-f3pmlworjfumncssr8cxvo.streamlit.app/
 
 ---
 
