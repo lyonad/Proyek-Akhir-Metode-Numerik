@@ -23,6 +23,12 @@ Proyek tidak menggunakan import library perhitungan.
 
 ---
 
+Versi Google Colab: 
+
+https://colab.research.google.com/drive/1baBU5NIOdiY51IzTn3_ULYlsi5YWirdZ?usp=sharing
+
+---
+
 Anggota Kelompok 5:
 
 1. Lyon Ambrosio Djuanda / 2304130098
