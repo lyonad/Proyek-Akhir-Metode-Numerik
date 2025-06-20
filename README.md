@@ -1,3 +1,5 @@
+Proyek implementasi Interpolasi Lagrange untuk mengaproksimasi fungsi f(x) = x²e^(-x) menggunakan Python murni tanpa library perhitungan, dilengkapi dengan perhitungan manual dan aplikasi web interaktif menggunakan Streamlit.
+
 Proyek Akhir Mata Kuliah Metode Numerik:
 
 Buatlah Program tentang
