@@ -23,6 +23,11 @@ Proyek tidak menggunakan import library perhitungan.
 
 ---
 
+Versi Website Streamlit:
+-
+
+---
+
 Versi Google Colab: 
 
 https://colab.research.google.com/drive/1baBU5NIOdiY51IzTn3_ULYlsi5YWirdZ?usp=sharing
